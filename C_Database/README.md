@@ -1,7 +1,7 @@
 A simple Database written in C
 
 Accessible through the terminal when executed.
-Allows User to input infor mation about themselves, such as their username, email, and user id
+Allows User to input information about themselves, such as their username, email, and user id
 
 The data is then stored in to a data structure called a table.
 
